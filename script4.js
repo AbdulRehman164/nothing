@@ -1,4 +1,4 @@
-<function displayImageInModal(imageUrl) {
+function displayImageInModal(imageUrl) {
   const modalContainer = document.createElement('div');
   modalContainer.classList.add('modal-container');
   const modalOverlay = document.createElement('div');
