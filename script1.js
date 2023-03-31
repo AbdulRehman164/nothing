@@ -3,4 +3,4 @@ function displayImage(imageUrl) {
   img.src = imageUrl;  // set the src attribute to the image URL
   document.body.appendChild(img);  // append the <img> element to the body of the HTML document
 }
-displayImage('https://images.app.goo.gl/D2iPYspD4QpfdqWV9');
+displayImage('https://images.app.goo.gl/EQTTYziqzDrj1AYo6');
